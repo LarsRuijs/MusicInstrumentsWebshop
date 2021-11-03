@@ -1,0 +1,18 @@
+[submodule "MIW-CustomerWebapp"]
+	path = MIW-CustomerWebapp
+	url = https://github.com/LarsRuijs/MIW-CustomerWebapp
+[submodule "MIW-CustomerGateway"]
+	path = MIW-CustomerGateway
+	url = https://github.com/LarsRuijs/MIW-CustomerGateway
+[submodule "MIW-CustomerAuthService"]
+	path = MIW-CustomerAuthService
+	url = https://github.com/LarsRuijs/MIW-CustomerAuthService
+[submodule "MIW-CustomerDetailsService"]
+	path = MIW-CustomerDetailsService
+	url = https://github.com/LarsRuijs/MIW-CustomerDetailsService
+[submodule "MIW-OrderService"]
+	path = MIW-OrderService
+	url = https://github.com/LarsRuijs/MIW-OrderService
+[submodule "MIW-ProductService"]
+	path = MIW-ProductService
+	url = https://github.com/LarsRuijs/MIW-ProductService
