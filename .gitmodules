@@ -16,3 +16,6 @@
 [submodule "MIW-ProductService"]
 	path = MIW-ProductService
 	url = https://github.com/LarsRuijs/MIW-ProductService
+[submodule "MIW-Architecture"]
+	path = MIW-Architecture
+	url = https://github.com/LarsRuijs/MIW-Architecture
