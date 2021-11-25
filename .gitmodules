@@ -22,3 +22,6 @@
 [submodule "MIW-RecommendationsService"]
 	path = MIW-RecommendationsService
 	url = https://github.com/LarsRuijs/MIW-RecommendationsService
+[submodule "MIW-Docker"]
+	path = MIW-Docker
+	url = https://github.com/LarsRuijs/MIW-Docker
