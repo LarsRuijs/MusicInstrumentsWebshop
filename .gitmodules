@@ -25,3 +25,6 @@
 [submodule "MIW-Docker"]
 	path = MIW-Docker
 	url = https://github.com/LarsRuijs/MIW-Docker
+[submodule "MIW-Deployment"]
+	path = MIW-Deployment
+	url = https://github.com/LarsRuijs/MIW-Deployment
